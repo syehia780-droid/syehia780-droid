@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Salah El Din Yehia 👋
 
-<!--
-**syehia780-droid/syehia780-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Backend Developer | React.js Developer
 
-Here are some ideas to get you started:
+Computer Science student passionate about software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Currently focusing on Java and Spring Boot.
+- 🌐 Learning React.js and modern web development.
+- 🗄️ Practicing SQL and database design.
+- 🚀 Improving my problem-solving and software development skills.
+
+### 🛠️ Technologies & Tools
+
+**Backend:** Java, Spring Boot, REST APIs
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+
+**Database:** SQL, PostgreSQL
+
+**Tools:** Git, GitHub, Maven
+
+### 🎯 Current Goal
+
+Building practical projects and strengthening my backend development skills.
+
+---
+
+⭐ Thanks for visiting my profile!
