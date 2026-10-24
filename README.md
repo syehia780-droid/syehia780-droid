@@ -11,6 +11,18 @@ Computer Science student passionate about software development and building prac
 
 ### 🛠️ Technologies & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,bootstrap,postgres,git,github,vscode" />
+</p>
+
+**Backend:** Java, Spring Boot, REST APIs
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+
+**Database:** SQL, PostgreSQL
+
+**Tools:** Git, GitHub, Maven
+
 **Backend:** Java, Spring Boot, REST APIs
 
 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
