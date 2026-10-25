@@ -36,5 +36,13 @@ Computer Science student passionate about software development and building prac
 Building practical projects and strengthening my backend development skills.
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syehia780-droid&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syehia780-droid&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ⭐ Thanks for visiting my profile!
