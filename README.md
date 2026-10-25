@@ -44,5 +44,18 @@ Building practical projects and strengthening my backend development skills.
   <img src="https://github-readme-stats.vercel.app/api?username=syehia780-droid&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syehia780-droid&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+----
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/syehia780-droid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/salah-yehia-452a05297">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ⭐ Thanks for visiting my profile!
